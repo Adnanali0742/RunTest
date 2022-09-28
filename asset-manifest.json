@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/testApplication/static/css/main.e0c56ac6.css",
+    "main.js": "/testApplication/static/js/main.6175b554.js",
+    "static/js/654.0752cf0b.chunk.js": "/testApplication/static/js/654.0752cf0b.chunk.js",
+    "static/js/313.4c771db9.chunk.js": "/testApplication/static/js/313.4c771db9.chunk.js",
+    "static/js/918.c50f4d80.chunk.js": "/testApplication/static/js/918.c50f4d80.chunk.js",
+    "static/media/example.gif": "/testApplication/static/media/example.e387daac238d17b74136.gif",
+    "static/media/ManuelUtilisateur.pdf": "/testApplication/static/media/ManuelUtilisateur.c95a904d441f0556f8a9.pdf",
+    "static/media/header_background.png": "/testApplication/static/media/header_background.34fc9c5ec319e0b3e5f3.png",
+    "static/media/spinner.gif": "/testApplication/static/media/spinner.222a80ed4894251167e4.gif",
+    "static/media/CE_Logo.png": "/testApplication/static/media/CE_Logo.4a00db61da441738a6e7.png",
+    "static/media/histoire.png": "/testApplication/static/media/histoire.bd8d730c1e0034ed9f4a.png",
+    "index.html": "/testApplication/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.e0c56ac6.css",
+    "static/js/main.6175b554.js"
+  ]
+}
